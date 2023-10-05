@@ -1,15 +1,28 @@
-1. github 공개 레포지토리를 만들고 URL을 공개하십시오.  
-https://github.com/hyemiMoon/ahnlabsem17-chatGPT
+# 깃헙 과제
 
-2. 개발자용 프롬프트 3가지 이상을 작성하시오 ( 그 중 한가지는 UML 과제 )
+## 1. 깃헙 공개 레포지토리 생성
 
-https://github.com/hyemiMoon/ahnlabsem17-chatGPT/blob/main/AIPRM-export-chatgpt-thread_2023-10-05T23_49_44.404Z.md
+github 공개 레포지토리를 만들고 URL을 공개하십시오.  
+[공개 레포지토리 바로가기](https://github.com/hyemiMoon/ahnlabsem17-chatGPT)
 
-1) 데이터베이스에는 학생 및 강좌 테이블이 있습니다. 최소 3개 강좌에 등록한 학생 목록을 가져오는 PostgreSQL 쿼리를 작성하세요.
-2) 정각마다 스트레칭을 유도하도록 알리는 앱을 만들고 싶어. 안드로이드 앱 코드 작성해
-3) 위의 알람 앱을 Mermaid Flow Chart를 통해 UML로 만들어줘
+## 2. 개발자용 프롬프트
 
+3가지 이상의 프롬프트를 작성하시오 (그 중 한 가지는 UML 과제와 관련이 있어야 합니다.)
 
+[공개 레포지토리 바로가기](https://github.com/hyemiMoon/ahnlabsem17-chatGPT/blob/main/AIPRM-export-chatgpt-thread_2023-10-05T23_49_44.404Z.md)
 
-3. ADA 프롬프트 3가지이상을 작성하시오.
-4. ChatGPT 플러그인 프롬프트 3가지 이상을 작성하시오.
+1. 데이터베이스에는 학생 및 강좌 테이블이 있습니다. 최소 3개 강좌에 등록한 학생 목록을 가져오는 PostgreSQL 쿼리를 작성하세요.
+2. 정각마다 스트레칭을 유도하도록 알리는 앱을 만들고 싶어. 안드로이드 앱 코드를 작성해 주세요.
+3. (추가 과제 내용을 입력해주세요.)
+
+## 3. ADA 프롬프트
+
+3가지 이상의 프롬프트를 작성하시오.
+
+(프롬프트 내용을 추가로 입력해주세요.)
+
+## 4. ChatGPT 플러그인 프롬프트
+
+3가지 이상의 프롬프트를 작성하시오.
+
+(프롬프트 내용을 추가로 입력해주세요.)
