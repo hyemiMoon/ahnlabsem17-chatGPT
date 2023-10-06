@@ -16,6 +16,8 @@ Spreadsheet
 **ChatGPT:**
 네, 먼저 주어진 파일을 열어 내용을 확인해보겠습니다.
 
+![image](https://github.com/hyemiMoon/ahnlabsem17-chatGPT/assets/54827907/29bef455-fda2-4e85-bd2a-c20823d9e4f6)
+
 ---
 
 **User:**
